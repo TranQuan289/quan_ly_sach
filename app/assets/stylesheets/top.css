@@ -5,7 +5,7 @@
 
 }
 
-.wrapper {
+.wrapper144 {
     padding: 20px 10px;
 }
 
@@ -38,7 +38,7 @@ tr:nth-child(5) {
     color: red;
 }
 
-.school {
+.school144 {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -52,14 +52,14 @@ tr:nth-child(5) {
     margin-left: -40px;
 }
 
-.title {
+.title144 {
     display: flex;
     justify-content: space-around;
     align-items: center;
     margin-top: 20px;
 }
 
-.date {
+.date144 {
     display: flex;
     align-items: center;
     gap: 0 10px;
@@ -74,7 +74,7 @@ tr:nth-child(5) {
     color: blue;
 }
 
-.number {
+.number144 {
     padding: 10px 15px;
     border: 1px solid red;
     font-size: 25px;
@@ -94,7 +94,7 @@ tr:nth-child(5) {
 
 }
 
-.title__wrap {
+.title144__wrap {
     display: flex;
     align-items: center;
     gap: 0 20px;
